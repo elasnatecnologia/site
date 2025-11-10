@@ -1,73 +1,66 @@
-# Welcome to your Lovable project
+# 💜 Elas na Tecnologia
 
-## Project info
+**Elas na Tecnologia** é um projeto que visa **incentivar e apoiar mulheres do Norte do Brasil na área de tecnologia**, promovendo visibilidade, aprendizado e oportunidades por meio de iniciativas colaborativas e inspiradoras.  
 
-**URL**: https://lovable.dev/projects/842678d7-c8ad-4f28-a99f-32310a4849fa
+Nosso objetivo é fortalecer a presença feminina no setor tecnológico, criando um espaço acolhedor e diverso onde o conhecimento é compartilhado e o crescimento é coletivo.  
 
-## How can I edit this code?
+🌎 **Acesse o projeto:** [https://lovable.dev/projects/842678d7-c8ad-4f28-a99f-32310a4849fa](https://lovable.dev/projects/842678d7-c8ad-4f28-a99f-32310a4849fa)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Tecnologias Utilizadas
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/842678d7-c8ad-4f28-a99f-32310a4849fa) and start prompting.
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-Changes made via Lovable will be committed automatically to this repo.
+- ⚡ **Vite** — Ferramenta de build moderna e rápida  
+- ⚛️ **React** — Biblioteca para criação de interfaces  
+- 💅 **Tailwind CSS** — Framework de estilização utilitária  
+- 🧩 **shadcn/ui** — Componentes de interface modernos e acessíveis  
+- 🧠 **TypeScript** — Tipagem estática para JavaScript  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💻 Como Executar o Projeto Localmente
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Pré-requisitos
+Certifique-se de ter o **Node.js** e o **npm** instalados em sua máquina.  
+Você pode instalar usando o [nvm (Node Version Manager)](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-Follow these steps:
+### Passo a passo
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+```bash
+# 1. Clone o repositório
+git clone <URL_DO_SEU_REPOSITORIO>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# 2. Acesse a pasta do projeto
+cd <NOME_DO_PROJETO>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3. Instale as dependências
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Inicie o servidor de desenvolvimento
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 💪 Contribua com o Projeto
 
-**Use GitHub Codespaces**
+Quer fazer parte desse movimento?
+Você pode contribuir de diversas formas:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Melhorando o código ou o design
 
-## What technologies are used for this project?
+- Ajudando na documentação
 
-This project is built with:
+- Sugerindo novas ideias ou iniciativas
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- Compartilhando o projeto com mais mulheres da sua região
 
-## How can I deploy this project?
+Toda ajuda é bem-vinda! 💜
 
-Simply open [Lovable](https://lovable.dev/projects/842678d7-c8ad-4f28-a99f-32310a4849fa) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## ✨ Créditos
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Projeto idealizado por [Elas na Tecnologia](https://www.instagram.com/elas.na.tecnologia/), uma iniciativa para ampliar a presença e o protagonismo feminino na tecnologia, especialmente no Norte do Brasil.
