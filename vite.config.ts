@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
   plugins: [react(), mode === "development" && componentTagger()].filter(
     Boolean
   ),
-  base: "/elas_na_tecnologia/",
+  base: "/site/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
