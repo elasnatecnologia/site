@@ -30,7 +30,7 @@ Você pode instalar usando o [nvm (Node Version Manager)](https://github.com/nvm
 
 ```bash
 # 1. Clone o repositório
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/elasnatecnologia/site.git
 
 # 2. Acesse a pasta do projeto
 cd <NOME_DO_PROJETO>
