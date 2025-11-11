@@ -4,7 +4,7 @@
 
 Nosso objetivo é fortalecer a presença feminina no setor tecnológico, criando um espaço acolhedor e diverso onde o conhecimento é compartilhado e o crescimento é coletivo.  
 
-🌎 **Acesse o projeto:** [https://lovable.dev/projects/842678d7-c8ad-4f28-a99f-32310a4849fa](https://lovable.dev/projects/842678d7-c8ad-4f28-a99f-32310a4849fa)
+🌎 **Acesse o projeto:** https://elasnatecnologia.github.io/site/
 
 ---
 
