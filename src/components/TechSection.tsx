@@ -26,7 +26,7 @@ export const TechSection = () => {
               <p className="text-lg md:text-xl leading-relaxed opacity-90">
                 Capacitamos mulheres do Norte do Brasil para liderar na
                 tecnologia, oferecendo suporte, conhecimento e uma rede de apoio
-                forte.
+                forte
               </p>
             </div>
 
