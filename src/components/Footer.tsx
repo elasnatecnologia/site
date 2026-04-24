@@ -83,7 +83,7 @@ export const Footer = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-gray-400 text-sm">
-              © 2025 Elas na Tecnologia. Todos os direitos reservados.
+              © 2026 Elas na Tecnologia. Todos os direitos reservados.
             </p>
             <div className="flex items-center gap-2 text-sm text-gray-400">
               <span>Feito com</span>
