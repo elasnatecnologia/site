@@ -6,9 +6,9 @@ import communityEvent from "@/assets/community-event.jpg";
 export const EventsSection = () => {
   const events = [
     {
-      title: "Elas Talks - 2ª Edição",
-      date: "22 de Outubro de 2025",
-      time: "18:30 - 22:00",
+      title: "Elas Talks - 3ª Edição",
+      date: "23 de Março de 2026",
+      time: "19:00 - 22:00",
       location: " Faculdade Faci Wyden Belém - PA",
       type: "Palestra Presencial",
       color: "pink",
