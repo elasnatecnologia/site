@@ -23,7 +23,7 @@ export const Footer = () => {
                 onClick={() => {
                   window.open(
                     "https://www.instagram.com/elas.na.tecnologia/",
-                    "_blank"
+                    "_blank",
                   );
                 }}
               >
@@ -62,7 +62,6 @@ export const Footer = () => {
             <h3 className="font-semibold text-lg">Contato</h3>
             <div className="space-y-2 text-gray-400">
               <p>elanatecnologia@gmail.com</p>
-              <p>+55 (91) 98351-1404</p>
               <p>Belém - PA</p>
             </div>
             <Button
@@ -71,7 +70,7 @@ export const Footer = () => {
               onClick={() => {
                 window.open(
                   "https://www.instagram.com/elas.na.tecnologia/",
-                  "_blank"
+                  "_blank",
                 );
               }}
             >
